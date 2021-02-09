@@ -1,0 +1,56 @@
+.btn-rounded {
+    padding: 8px 16px;
+    border-radius: 16px;
+    background-color: #717fe0;
+    color: white;
+    font-size: smaller;
+}
+
+.btn-rounded:hover {
+    transition: ease-in;
+    background-color: rgba(0, 0, 0, 1);
+    color: white;
+}
+
+.text_404 {
+    margin: auto;
+    font-size: 2em;
+    width: 100px;
+    margin-bottom: 1em;
+}
+
+.modal {
+    padding-top: 10vh;
+    z-index: 9999;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.form-checkout .tab-custom {
+    border-color: none !important;
+}
+
+.my-breadcrumb .breadcrumb {
+    background-color: white !important;
+}
+
+.my-breadcrumb .breadcrumb a {
+    font-weight: 600;
+    color: #6c7ae0;
+}
+
+.my-breadcrumb .breadcrumb li.breadcrumb-item.active {
+    font-weight: 600 !important;
+    color: #000;
+}
+
+.nav-tabs .nav-item a {
+    margin: 8px;
+    color: black;
+    border: none;
+}
+
+.nav-tabs.custom .nav-item .active {
+    background-color: #f74877;
+    color: white;
+    border-radius: 20px;
+}
